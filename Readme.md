@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анатолий Симонов](https://up.htmlacademy.ru/javascript/20/user/1066743).
-* Наставник: `Неизвестно`.
+* Наставник: [Мария Наг](https://htmlacademy.ru/profile/id47061).
 
 ---
 
